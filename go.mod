@@ -1,3 +1,3 @@
-module github.com/rg1
+module github.com/sebastien-rosset/rg1
 
 go 1.15
